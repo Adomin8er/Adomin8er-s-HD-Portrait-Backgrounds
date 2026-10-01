@@ -1,0 +1,17 @@
+﻿{
+    "Name": "ADMT_TESTING_Adomin8er_sHDPortraitBackgrounds",
+    "Author": "Adomin8er",
+    "Version": "0.1.0",
+    "Description": "HD Portrait Backgrounds ",
+    "UniqueID": "ADMT_TESTING_Adomin8er.Adomin8ersHDPortraitBackgrounds",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+        {
+			"UniqueID": "spacechase0.SpaceCore",
+			"IsRequired": true
+		}
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "Format": "2.2.0",
+  "Changes": [
+    {
+      "LogName": "Include Backgrounds",
+      "Action": "Include",
+      "FromFile": "code/Backgrounds/Backgrounds.json"
+    }
+  ]
+}
