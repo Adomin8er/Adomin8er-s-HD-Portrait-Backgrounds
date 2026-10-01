@@ -10,7 +10,7 @@
     },
 	"Dependencies": [
         {
-			"UniqueID": "spacechase0.SpaceCore",
+			"UniqueID": "https://github.com/Adomin8er/Adomin8er-s-HD-Portrait-Backgrounds",
 			"IsRequired": true
 		}
     ]
